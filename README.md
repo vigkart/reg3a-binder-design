@@ -375,7 +375,3 @@ Code.** Experimental design decisions, the steering hypotheses, and the
 critical catch that an unmasked motif context invalidated the first steering
 result were the authors'. All results were produced by code in this repository
 and are reproducible from it.
-
-Per course policy every item presented must be explicable and defensible by the
-presenter. `PRESENTATION_OUTLINE.md` lists, per section, the questions each
-presenter should be ready to answer.
